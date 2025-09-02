@@ -18,6 +18,7 @@ Step 4:
 End the program. 
 
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by: Vinolia Alaina .R
 #RegisterNumber:212224240184
@@ -27,6 +28,7 @@ a=np.array([[6, 2, 3],[3 ,1 ,1 ],[10 ,3 ,4]])
  
 l=np.linalg.inv(a)
 print(l)
+```
 ## Output:
 <img width="1309" height="947" alt="image" src="https://github.com/user-attachments/assets/deba303d-1ed3-4154-a61a-ec63cfb5b04e" />
 
